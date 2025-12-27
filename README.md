@@ -24,3 +24,6 @@ exploratory data analysis (EDA).
 - Home feed contributes the highest share of impressions
 - Saves and comments play a strong role in follower growth
 - Engagement rate is more meaningful than impressions alone
+
+🔗 Kaggle Notebook: <https://www.kaggle.com/code/rutujafulzeleee/instagram-post-performance-analysis-reach-enga>
+
